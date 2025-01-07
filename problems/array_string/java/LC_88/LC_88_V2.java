@@ -1,4 +1,4 @@
-class Solution {
+class SolutionV2 {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         int indexM = m - 1;
         int indexN = n - 1;
